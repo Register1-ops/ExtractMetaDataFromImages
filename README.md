@@ -20,7 +20,7 @@ pip install Pillow
 3. Run the Script
 
 ```bash
-python extract_metadata.py
+python ExtractMetaDataFromImages.py
 ```
 
 Metadata from images in the current directory will be printed to the console.
